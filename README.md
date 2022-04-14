@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/ipnet/ipnet/blob/main/funny.gif" width=350 hight=350/>
+  <img src="https://github.com/ipnet/ipnet/blob/main/funny.gif" width=300 hight=300/>
 </p>
 
 <br/>
