@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/ipnet/ipnet/blob/main/funny.gif">
+<p align="center">
+  <img src="https://github.com/ipnet/ipnet/blob/main/funny.gif" width=350 hight=350/>
+</p>
 
 <br/>
 
