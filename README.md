@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <p align="center">
   <img src="https://github.com/ipnet/ipnet/blob/main/funny.gif" width=300 hight=300/>
 </p>
-
+-->
 <br/>
 
 <a href="https://github.com/ipnet">
