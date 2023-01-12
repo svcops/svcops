@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-<table>
+<table border=0>
   <tr>
     <td>
-      <img align="left" src="https://github-profile.misec.top/api?username=ipnet&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+      <img src="https://github-profile.misec.top/api?username=ipnet&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
     </td>
     <td>
-      <img align="right" src="https://github-profile.misec.top/api/top-langs/?username=ipnet&layout=compact"/>
+      <img src="https://github-profile.misec.top/api/top-langs/?username=ipnet&layout=compact"/>
     </td>
   </tr>
 <table>
