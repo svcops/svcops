@@ -6,8 +6,9 @@ I'm a Backend Developer.
 
 ## 💬 Worked language for me
 
-- ✅ ⁠ ⁢⁣⁡ ⁢⁣⁡Java / Golang
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Golang
+- ✅ ⁠ ⁢⁣⁡ ⁢⁣⁡Java / Kotlin
+- ✅ ⁠ ⁢⁣⁡ ⁢⁣⁡Golang
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡SQL 
 
 
