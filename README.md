@@ -4,7 +4,7 @@
 
 I'm a Backend Developer.
 
-## 💬 Worked language for me
+## 👨🏽‍💻 Worked language for me 💬
 
 - ✅ ⁠ ⁢⁣⁡ ⁢⁣⁡Java / Kotlin
 - ✅ ⁠ ⁢⁣⁡ ⁢⁣⁡Golang
