@@ -17,4 +17,4 @@ I'm a Backend Developer.
 
 ## Magic Number
 
-![Visited By](https://count.getloli.com/get/@ipnet?theme=gelbooru)
+![Visited By](https://count.getloli.com/get/@iprt?theme=gelbooru)
