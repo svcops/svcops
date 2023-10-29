@@ -7,6 +7,7 @@ I'm a Backend Developer.
 ## 💬 Worked technologies for me
 
 ![Java](https://img.shields.io/badge/-Java-gray?style=flat-square&logo=java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-gray?style=flat-square&logo=kotlin)
 ![Go](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=go)
 ![Spring](https://img.shields.io/badge/-Spring-gray?style=flat-square&logo=spring)
 ![Redis](https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=Redis)
