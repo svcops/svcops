@@ -6,6 +6,7 @@ I'm a Backend Developer.
 
 ## 💬 Worked technologies for me
 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-gray?style=flat-square&logo=kubernetes)
 ![Java](https://img.shields.io/badge/-Java-gray?style=flat-square&logo=openjdk&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-gray?style=flat-square&logo=kotlin)
 ![Go](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=go)
@@ -13,7 +14,6 @@ I'm a Backend Developer.
 ![Redis](https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-gray?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-gray?style=flat-square&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
 
 
