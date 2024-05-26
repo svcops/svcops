@@ -22,7 +22,7 @@ I'm a Backend Developer.
 
 ## Magic Number
 
-![Visited By](https://count.getloli.com/get/@iprt?theme=gelbooru)
+![Visited By](https://getloli.kubectl.net/get/@iprt?theme=gelbooru)
 
 ## 👀 Some cool stuff to look into 
 
