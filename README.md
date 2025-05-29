@@ -12,7 +12,7 @@ I'm a Backend Developer.
 ![Go](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=go)
 ![Spring](https://img.shields.io/badge/-Spring-gray?style=flat-square&logo=spring)
 ![Redis](https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=Redis)
-![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql&logoColor=yellow)
 ![Postgres](https://img.shields.io/badge/-Posgres-gray?style=flat-square&logo=postgresql&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-gray?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
