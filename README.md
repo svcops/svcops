@@ -23,7 +23,7 @@ I'm a Backend Developer.
 
 ## Magic Number
 
-![Visited By](https://counter.nginx.co/get/@iprt?theme=rule34)
+![Visited By](https://counter.nginx.co/get/at/svcops?theme=minecraft)
 
 ## 👀 Some cool stuff to look into 
 
